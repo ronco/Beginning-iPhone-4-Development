@@ -1,0 +1,336 @@
+TView Switcher
+v7
+r0
+t321375857.346955
+cCheck dependencies
+cProcessInfoPlistFile "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/Info.plist" View_Switcher-Info.plist
+cCompileXIB "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/MainWindow.xib"
+cCompileXIB "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/BlueView.xib"
+cCompileXIB "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/YellowView.xib"
+cProcessPCH /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-cbmmilmrnhzipnfmjtxdykbgbqev/View_Switcher_Prefix.pch.gch View_Switcher_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/main.o" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/View_SwitcherAppDelegate.o" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/View_SwitcherAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/SwitchViewController.o" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/SwitchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/BlueViewController.o" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/BlueViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/YellowViewController.o" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/YellowViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/View Switcher" normal i386
+cGenerateDSYMFile "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app.dSYM" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/View Switcher"
+cTouch "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/BlueView.xib
+c000000004D7795E4000000000000485C
+t1299682788
+s18524
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/BlueViewController.h
+c000000004D7794F30000000000000104
+t1299682547
+s260
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/BlueViewController.m
+c000000004D7796CE000000000000075B
+t1299683022
+s1883
+i"BlueViewController.h"
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/SwitchViewController.h
+c000000004D76B4E9000000000000022A
+t1299625193
+s554
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/SwitchViewController.m
+c000000004D76BB8F000000000000080A
+t1299626895
+s2058
+i"SwitchViewController.h"
+i"YellowViewController.h"
+i"BlueViewController.h"
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/View_SwitcherAppDelegate.h
+c000000004D76B3A900000000000001BF
+t1299624873
+s447
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/View_SwitcherAppDelegate.m
+c000000004D76B4230000000000000A73
+t1299624995
+s2675
+i"View_SwitcherAppDelegate.h"
+i"SwitchViewController.h"
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/YellowViewController.h
+c000000004D77950B0000000000000109
+t1299682571
+s265
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/YellowViewController.m
+c000000004D7796E70000000000000768
+t1299683047
+s1896
+i"YellowViewController.h"
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/MainWindow.xib
+c000000004D76A6A80000000000002126
+t1299621544
+s8486
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/View_Switcher_Prefix.pch
+c000000004D76A6A800000000000000C3
+t1299621544
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/YellowView.xib
+c000000004D7796290000000000004700
+t1299682857
+s18176
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app
+t1299683057
+s272
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app.dSYM
+t1299683057
+s102
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/BlueView.nib
+t1299683055
+s1466
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/Info.plist
+t1299683054
+s615
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/MainWindow.nib
+t1299683055
+s990
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/PkgInfo
+t1299683054
+s8
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/View Switcher
+t1299683057
+s25036
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/YellowView.nib
+t1299683055
+s1379
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/BlueViewController.o
+t1299683056
+s44636
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/SwitchViewController.o
+t1299683056
+s45284
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/View Switcher.LinkFileList
+c000000004D7796EE000000000000036C
+t1299683054
+s876
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/View_SwitcherAppDelegate.o
+t1299683056
+s51452
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/YellowViewController.o
+t1299683056
+s44696
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/main.o
+t1299683056
+s6360
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/main.m
+c000000004D76A6A80000000000000165
+t1299621544
+s357
+i<UIKit/UIKit.h>
+
+N/var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-cbmmilmrnhzipnfmjtxdykbgbqev/View_Switcher_Prefix.pch.gch
+t1299683056
+s15453392
+
+NView_Switcher-Info.plist
+c000000004D76A6A8000000000000038D
+t1299621544
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321375854#321375854#0(0"0(0#1#0"8657636128#0"0#
+
+CCompileC "build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/BlueViewController.o" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/BlueViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321375856.706911
+e321375856.925648
+r1
+xCompileC
+xbuild/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/BlueViewController.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/BlueViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/BlueViewController.m321375856#321375856#0(0"0(0#0#95"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/BlueViewController.m8623086240#2400"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-generated-files.hmap" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-own-target-headers.hmap" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-all-target-headers.hmap" -iquote "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-project-headers.hmap" "-F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/DerivedSources/i386" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/DerivedSources" -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-cbmmilmrnhzipnfmjtxdykbgbqev/View_Switcher_Prefix.pch -c "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/BlueViewController.m" -o "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/BlueViewController.o"0#
+
+CCompileC "build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/SwitchViewController.o" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/SwitchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321375856.705876
+e321375856.926226
+r1
+xCompileC
+xbuild/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/SwitchViewController.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/SwitchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/SwitchViewController.m321375856#321375856#0(0"0(0#0#97"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/SwitchViewController.m8651789312#2404"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-generated-files.hmap" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-own-target-headers.hmap" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-all-target-headers.hmap" -iquote "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-project-headers.hmap" "-F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/DerivedSources/i386" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/DerivedSources" -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-cbmmilmrnhzipnfmjtxdykbgbqev/View_Switcher_Prefix.pch -c "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/SwitchViewController.m" -o "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/SwitchViewController.o"0#
+
+CCompileC "build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/View_SwitcherAppDelegate.o" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/View_SwitcherAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321375856.704834
+e321375856.925995
+r1
+xCompileC
+xbuild/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/View_SwitcherAppDelegate.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/View_SwitcherAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/View_SwitcherAppDelegate.m321375856#321375856#0(0"0(0#0#101"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/View_SwitcherAppDelegate.m8659215744#2412"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-generated-files.hmap" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-own-target-headers.hmap" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-all-target-headers.hmap" -iquote "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-project-headers.hmap" "-F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/DerivedSources/i386" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/DerivedSources" -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-cbmmilmrnhzipnfmjtxdykbgbqev/View_Switcher_Prefix.pch -c "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/View_SwitcherAppDelegate.m" -o "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/View_SwitcherAppDelegate.o"0#
+
+CCompileC "build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/YellowViewController.o" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/YellowViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321375856.910812
+e321375856.975527
+r1
+xCompileC
+xbuild/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/YellowViewController.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/YellowViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/YellowViewController.m321375856#321375856#0(0"0(0#0#97"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/YellowViewController.m8604015232#2404"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-generated-files.hmap" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-own-target-headers.hmap" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-all-target-headers.hmap" -iquote "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-project-headers.hmap" "-F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/DerivedSources/i386" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/DerivedSources" -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-cbmmilmrnhzipnfmjtxdykbgbqev/View_Switcher_Prefix.pch -c "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/Classes/YellowViewController.m" -o "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/YellowViewController.o"0#
+
+CCompileC "build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/main.o" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321375856.703886
+e321375856.910411
+r1
+xCompileC
+xbuild/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/main.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/main.m321375856#321375856#0(0"0(0#0#73"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/main.m8621553696#2364"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-generated-files.hmap" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-own-target-headers.hmap" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-all-target-headers.hmap" -iquote "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-project-headers.hmap" "-F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/DerivedSources/i386" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/DerivedSources" -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-cbmmilmrnhzipnfmjtxdykbgbqev/View_Switcher_Prefix.pch -c "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/main.m" -o "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/BlueView.xib"
+s321375854.407514
+e321375855.225447
+r1
+xCompileXIB
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/BlueView.xib
+lSLF07#2@23"CompileXIB BlueView.xib321375854#321375855#0(0"0(0#0#79"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/BlueView.xib8606340768#662"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/BlueView.nib" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/BlueView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/MainWindow.xib"
+s321375854.362049
+e321375855.135549
+r1
+xCompileXIB
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321375854#321375855#0(0"0(0#0#81"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/MainWindow.xib8612548096#666"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/MainWindow.nib" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/YellowView.xib"
+s321375854.408261
+e321375855.230408
+r1
+xCompileXIB
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/YellowView.xib
+lSLF07#2@25"CompileXIB YellowView.xib321375854#321375855#0(0"0(0#0#81"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/YellowView.xib8604196480#666"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/YellowView.nib" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/YellowView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app.dSYM" "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/View Switcher"
+s321375857.268469
+e321375857.332015
+r1
+xGenerateDSYMFile
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app.dSYM
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/View Switcher
+lSLF07#2@131"GenerateDSYMFile "build/Debug-iphonesimulator/View Switcher.app.dSYM" "build/Debug-iphonesimulator/View Switcher.app/View Switcher"321375857#321375857#0(0"0(0#0#126"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/View Switcher8615081600#491"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/View Switcher" -o "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app.dSYM"0#
+
+CLd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/View Switcher" normal i386
+s321375856.975736
+e321375857.268345
+r1
+xLd
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/View Switcher
+xnormal
+xi386
+lSLF07#2@131"Link /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/View Switcher321375856#321375857#0(0"0(0#0#0"8621475488#1080"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator" "-F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator" -filelist "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/Objects-normal/i386/View Switcher.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/View Switcher"0#
+
+CProcessInfoPlistFile "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/Info.plist" View_Switcher-Info.plist
+s321375854.358619
+e321375854.361955
+r1
+xProcessInfoPlistFile
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/Info.plist
+xView_Switcher-Info.plist
+lSLF07#2@32"Process View_Switcher-Info.plist321375854#321375854#0(0"0(0#0#91"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/View_Switcher-Info.plist8613133792#587"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility View_Switcher-Info.plist -genpkginfo "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app/Info.plist"0#
+
+CProcessPCH /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-cbmmilmrnhzipnfmjtxdykbgbqev/View_Switcher_Prefix.pch.gch View_Switcher_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321375855.230524
+e321375856.703703
+r1
+xProcessPCH
+x/var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-cbmmilmrnhzipnfmjtxdykbgbqev/View_Switcher_Prefix.pch.gch
+xView_Switcher_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile View_Switcher_Prefix.pch321375855#321375856#0(0"0(0#0#91"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/View_Switcher_Prefix.pch8625022368#2220"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-generated-files.hmap" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-own-target-headers.hmap" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-all-target-headers.hmap" -iquote "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/View Switcher-project-headers.hmap" "-F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/DerivedSources/i386" "-I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/View Switcher.build/Debug-iphonesimulator/View Switcher.build/DerivedSources" -c "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/View_Switcher_Prefix.pch" -o /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-cbmmilmrnhzipnfmjtxdykbgbqev/View_Switcher_Prefix.pch.gch0#
+
+CTouch "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app"
+s321375857.332105
+e321375857.346902
+r1
+xTouch
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app
+lSLF07#2@118"Touch /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app321375857#321375857#0(0"0(0#0#0"8656879328#344"    cd "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/View Switcher/build/Debug-iphonesimulator/View Switcher.app"0#
+

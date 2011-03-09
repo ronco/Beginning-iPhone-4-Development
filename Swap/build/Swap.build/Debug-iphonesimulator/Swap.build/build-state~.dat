@@ -1,0 +1,364 @@
+TSwap
+v7
+r0
+t321311550.275524
+cCheck dependencies
+cProcessInfoPlistFile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/Info.plist Swap-Info.plist
+cCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/MainWindow.xib
+cCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/SwapViewController.xib
+cProcessPCH /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-davdomqfcxrmerexphtskiorwkds/Swap_Prefix.pch.gch Swap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/main.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapAppDelegate.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapViewController.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapAppDelegate.h
+c000000004D76960700000000000001C3
+t1299617287
+s451
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapAppDelegate.m
+c000000004D7696070000000000000A7C
+t1299617287
+s2684
+i"SwapAppDelegate.h"
+i"SwapViewController.h"
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.h
+c000000004D76974A000000000000036C
+t1299617610
+s876
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.m
+c000000004D769BB40000000000000DAB
+t1299618740
+s3499
+i"SwapViewController.h"
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/MainWindow.xib
+c000000004D7696070000000000004E05
+t1299617287
+s19973
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/SwapViewController.xib
+c000000004D76993F00000000000074D3
+t1299618111
+s29907
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Swap_Prefix.pch
+c000000004D76960700000000000000B1
+t1299617287
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app
+t2
+s0
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app.dSYM
+t2
+s0
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/Info.plist
+t1299618746
+s579
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/MainWindow.nib
+t1299618748
+s1117
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/PkgInfo
+t1299618746
+s8
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/Swap
+t2
+s0
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/SwapViewController.nib
+t1299618748
+s2299
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/Swap.LinkFileList
+c000000004D769BBA00000000000001AE
+t1299618746
+s430
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapAppDelegate.o
+t1299618750
+s50952
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapViewController.o
+t2
+s0
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/main.o
+t1299618750
+s6340
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/main.m
+c000000004D769607000000000000015C
+t1299617287
+s348
+i<UIKit/UIKit.h>
+
+N/var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-davdomqfcxrmerexphtskiorwkds/Swap_Prefix.pch.gch
+t1299618750
+s15453392
+
+NSwap-Info.plist
+c000000004D769607000000000000038D
+t1299617287
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321311546#321311546#0(0"0(0#1#0"8603888192#0"0#
+
+CCompileC build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapAppDelegate.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321311550.139524
+e321311550.275449
+r1
+xCompileC
+xbuild/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapAppDelegate.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapAppDelegate.m321311550#321311550#0(0"0(0#0#83"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapAppDelegate.m8651672064#2093"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-generated-files.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-own-target-headers.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-all-target-headers.hmap -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-project-headers.hmap -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/include -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources/i386 -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-davdomqfcxrmerexphtskiorwkds/Swap_Prefix.pch -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapAppDelegate.m -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapAppDelegate.o0#
+
+CCompileC build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapViewController.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321311550.140790
+e321311550.257454
+r0
+xCompileC
+xbuild/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapViewController.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.m: In function '-[SwapViewController buttonPressed:]':
+o/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.m:52: error: lvalue required as left operand of assignment
+o{standard input}:504:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:504:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:498:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:498:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:491:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:491:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:488:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:488:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:485:non-relocatable subtraction expression, "LC5" minus "L00000000001$pb"
+o{standard input}:485:symbol: "LC5" can't be undefined in a subtraction expression
+o{standard input}:482:non-relocatable subtraction expression, "LC4" minus "L00000000001$pb"
+o{standard input}:482:symbol: "LC4" can't be undefined in a subtraction expression
+o{standard input}:463:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:463:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:457:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:457:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:450:non-relocatable subtraction expression, "LC7" minus "L00000000001$pb"
+o{standard input}:450:symbol: "LC7" can't be undefined in a subtraction expression
+o{standard input}:431:non-relocatable subtraction expression, "L_CGAffineTransformIdentity$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:431:symbol: "L_CGAffineTransformIdentity$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:429:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:429:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:423:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:423:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:415:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:415:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:408:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:408:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:388:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:388:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:382:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:382:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:375:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:375:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:372:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:372:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:369:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:369:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:366:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:366:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:347:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:347:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:341:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:341:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:334:non-relocatable subtraction expression, "LC6" minus "L00000000001$pb"
+o{standard input}:334:symbol: "LC6" can't be undefined in a subtraction expression
+o{standard input}:315:non-relocatable subtraction expression, "L_CGAffineTransformIdentity$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:315:symbol: "L_CGAffineTransformIdentity$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:313:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:313:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:307:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:307:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:299:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:299:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:292:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:292:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:272:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:272:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:266:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:266:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:259:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:259:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:256:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:256:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:253:non-relocatable subtraction expression, "LC5" minus "L00000000001$pb"
+o{standard input}:253:symbol: "LC5" can't be undefined in a subtraction expression
+o{standard input}:250:non-relocatable subtraction expression, "LC4" minus "L00000000001$pb"
+o{standard input}:250:symbol: "LC4" can't be undefined in a subtraction expression
+o{standard input}:231:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:231:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:225:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:225:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:218:non-relocatable subtraction expression, "LC3" minus "L00000000001$pb"
+o{standard input}:218:symbol: "LC3" can't be undefined in a subtraction expression
+o{standard input}:199:non-relocatable subtraction expression, "L_CGAffineTransformIdentity$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:199:symbol: "L_CGAffineTransformIdentity$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:197:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:197:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:191:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:191:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:183:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:183:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:176:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:176:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:156:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:156:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:150:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:150:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:143:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:143:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:140:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:140:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:137:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:137:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:134:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:134:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:115:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:115:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:109:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:109:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:102:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:102:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:83:non-relocatable subtraction expression, "L_CGAffineTransformIdentity$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:83:symbol: "L_CGAffineTransformIdentity$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:81:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:81:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:75:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:75:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:67:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:67:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:60:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:60:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_CGAffineTransformIdentity$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol LC0
+o{standard input}:unknown:Undefined local symbol LC1
+o{standard input}:unknown:Undefined local symbol LC2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol LC3
+o{standard input}:unknown:Undefined local symbol LC4
+o{standard input}:unknown:Undefined local symbol LC5
+o{standard input}:unknown:Undefined local symbol LC6
+o{standard input}:unknown:Undefined local symbol LC7
+lSLF07#2@94"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.m321311550#321311550#0(12825"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.m: In function '-[SwapViewController buttonPressed:]':/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.m:52: error: lvalue required as left operand of assignment{standard input}:504:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:504:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:498:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:498:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:491:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:491:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:488:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:488:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:485:non-relocatable subtraction expression, "LC5" minus "L00000000001$pb"{standard input}:485:symbol: "LC5" can't be undefined in a subtraction expression{standard input}:482:non-relocatable subtraction expression, "LC4" minus "L00000000001$pb"{standard input}:482:symbol: "LC4" can't be undefined in a subtraction expression{standard input}:463:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:463:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:457:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:457:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:450:non-relocatable subtraction expression, "LC7" minus "L00000000001$pb"{standard input}:450:symbol: "LC7" can't be undefined in a subtraction expression{standard input}:431:non-relocatable subtraction expression, "L_CGAffineTransformIdentity$non_lazy_ptr" minus "L00000000001$pb"{standard input}:431:symbol: "L_CGAffineTransformIdentity$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:429:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:429:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:423:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:423:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:415:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:415:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:408:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:408:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:388:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:388:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:382:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:382:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:375:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:375:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:372:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:372:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:369:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:369:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:366:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:366:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:347:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:347:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:341:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:341:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:334:non-relocatable subtraction expression, "LC6" minus "L00000000001$pb"{standard input}:334:symbol: "LC6" can't be undefined in a subtraction expression{standard input}:315:non-relocatable subtraction expression, "L_CGAffineTransformIdentity$non_lazy_ptr" minus "L00000000001$pb"{standard input}:315:symbol: "L_CGAffineTransformIdentity$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:313:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:313:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:307:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:307:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:299:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:299:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:292:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:292:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:272:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:272:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:266:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:266:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:259:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:259:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:256:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:256:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:253:non-relocatable subtraction expression, "LC5" minus "L00000000001$pb"{standard input}:253:symbol: "LC5" can't be undefined in a subtraction expression{standard input}:250:non-relocatable subtraction expression, "LC4" minus "L00000000001$pb"{standard input}:250:symbol: "LC4" can't be undefined in a subtraction expression{standard input}:231:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:231:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:225:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:225:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:218:non-relocatable subtraction expression, "LC3" minus "L00000000001$pb"{standard input}:218:symbol: "LC3" can't be undefined in a subtraction expression{standard input}:199:non-relocatable subtraction expression, "L_CGAffineTransformIdentity$non_lazy_ptr" minus "L00000000001$pb"{standard input}:199:symbol: "L_CGAffineTransformIdentity$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:197:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:197:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:191:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:191:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:183:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:183:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:176:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:176:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:156:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:156:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:150:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:150:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:143:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:143:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:140:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:140:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:137:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:137:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:134:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:134:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:115:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:115:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:109:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:109:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:102:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:102:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:83:non-relocatable subtraction expression, "L_CGAffineTransformIdentity$non_lazy_ptr" minus "L00000000001$pb"{standard input}:83:symbol: "L_CGAffineTransformIdentity$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:81:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:81:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:75:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:75:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:67:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:67:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:60:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:60:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_CGAffineTransformIdentity$non_lazy_ptr{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol LC1{standard input}:unknown:Undefined local symbol LC2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol LC3{standard input}:unknown:Undefined local symbol LC4{standard input}:unknown:Undefined local symbol LC5{standard input}:unknown:Undefined local symbol LC6{standard input}:unknown:Undefined local symbol LC71(4@45"Lvalue required as left operand of assignment321311550#140#144#0(6@86"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.m321311540#52#0#52#0#0"0(0#0#86"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.m8650033024#2099"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-generated-files.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-own-target-headers.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-all-target-headers.hmap -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-project-headers.hmap -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/include -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources/i386 -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-davdomqfcxrmerexphtskiorwkds/Swap_Prefix.pch -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Classes/SwapViewController.m -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapViewController.o1#
+
+CCompileC build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/main.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321311550.138272
+e321311550.244814
+r1
+xCompileC
+xbuild/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/main.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/main.m321311550#321311550#0(0"0(0#0#64"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/main.m8622322880#2063"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-generated-files.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-own-target-headers.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-all-target-headers.hmap -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-project-headers.hmap -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/include -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources/i386 -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-davdomqfcxrmerexphtskiorwkds/Swap_Prefix.pch -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/main.m -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/MainWindow.xib
+s321311546.735215
+e321311548.625945
+r1
+xCompileXIB
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321311546#321311548#0(0"0(0#0#72"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/MainWindow.xib8622312800#624"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/MainWindow.nib /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/SwapViewController.xib
+s321311546.735927
+e321311548.668698
+r1
+xCompileXIB
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/SwapViewController.xib
+lSLF07#2@33"CompileXIB SwapViewController.xib321311546#321311548#0(0"0(0#0#80"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/SwapViewController.xib8622110624#640"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/SwapViewController.nib /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/SwapViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app.dSYM /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/Swap
+r0
+
+CLd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/Swap normal i386
+r0
+
+CProcessInfoPlistFile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/Info.plist Swap-Info.plist
+s321311546.731284
+e321311546.735132
+r1
+xProcessInfoPlistFile
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/Info.plist
+xSwap-Info.plist
+lSLF07#2@23"Process Swap-Info.plist321311546#321311546#0(0"0(0#0#73"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Swap-Info.plist8623085856#527"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Swap-Info.plist -genpkginfo /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app/Info.plist0#
+
+CProcessPCH /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-davdomqfcxrmerexphtskiorwkds/Swap_Prefix.pch.gch Swap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321311548.668858
+e321311550.138097
+r1
+xProcessPCH
+x/var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-davdomqfcxrmerexphtskiorwkds/Swap_Prefix.pch.gch
+xSwap_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Swap_Prefix.pch321311548#321311550#0(0"0(0#0#73"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Swap_Prefix.pch8658852320#1939"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-generated-files.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-own-target-headers.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-all-target-headers.hmap -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-project-headers.hmap -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/include -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources/i386 -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/Swap_Prefix.pch -o /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-davdomqfcxrmerexphtskiorwkds/Swap_Prefix.pch.gch0#
+
+CTouch /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Swap/build/Debug-iphonesimulator/Swap.app
+r0
+
