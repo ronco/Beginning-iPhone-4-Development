@@ -1,0 +1,675 @@
+TPickers
+v7
+r0
+t321496088.029260
+cCheck dependencies
+cProcessInfoPlistFile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Info.plist Pickers-Info.plist
+cCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/MainWindow.xib
+cCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.xib
+cCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.xib
+cCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.xib
+cCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.xib
+cCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.xib
+cCpResource build/Debug-iphonesimulator/Pickers.app/clockicon.png "Tab Bar Icons/clockicon.png"
+cCpResource build/Debug-iphonesimulator/Pickers.app/dependenticon.png "Tab Bar Icons/dependenticon.png"
+cCpResource build/Debug-iphonesimulator/Pickers.app/doubleicon.png "Tab Bar Icons/doubleicon.png"
+cCpResource build/Debug-iphonesimulator/Pickers.app/singleicon.png "Tab Bar Icons/singleicon.png"
+cCpResource build/Debug-iphonesimulator/Pickers.app/toolicon.png "Tab Bar Icons/toolicon.png"
+cCopyPlistFile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/statedictionary.plist statedictionary.plist
+cCpResource build/Debug-iphonesimulator/Pickers.app/apple.png "Custom Picker Images/apple.png"
+cCpResource build/Debug-iphonesimulator/Pickers.app/bar.png "Custom Picker Images/bar.png"
+cCpResource build/Debug-iphonesimulator/Pickers.app/cherry.png "Custom Picker Images/cherry.png"
+cCpResource build/Debug-iphonesimulator/Pickers.app/crown.png "Custom Picker Images/crown.png"
+cCpResource build/Debug-iphonesimulator/Pickers.app/lemon.png "Custom Picker Images/lemon.png"
+cCpResource build/Debug-iphonesimulator/Pickers.app/seven.png "Custom Picker Images/seven.png"
+cProcessPCH /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-ebwljblybjntgshctkwsutcpzqic/Pickers_Prefix.pch.gch Pickers_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/PickersAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers normal i386
+cGenerateDSYMFile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers
+cTouch /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.h
+c000000004D7936E10000000000000329
+t1299789537
+s809
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.m
+c000000004D796C93000000000000106C
+t1299803283
+s4204
+i"CustomPickerViewController.h"
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.xib
+c000000004D7937ED0000000000005F8E
+t1299789805
+s24462
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.h
+c000000004D78EBAD0000000000000161
+t1299770285
+s353
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.m
+c000000004D79100F00000000000007EB
+t1299779599
+s2027
+i"DatePickerViewController.h"
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.xib
+c000000004D79108700000000000058F4
+t1299779719
+s22772
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.h
+c000000004D792ED800000000000002B0
+t1299787480
+s688
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.m
+c000000004D7935950000000000001067
+t1299789205
+s4199
+i"DependentComponentPickerViewController.h"
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.xib
+c000000004D7934A30000000000005321
+t1299788963
+s21281
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.h
+c000000004D792D7B0000000000000278
+t1299787131
+s632
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.m
+c000000004D792C6B0000000000000D89
+t1299786859
+s3465
+i"DoubleComponentPickerViewController.h"
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.xib
+c000000004D792D9300000000000052DB
+t1299787155
+s21211
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/PickersAppDelegate.h
+c000000004D780F9500000000000001AD
+t1299713941
+s429
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/PickersAppDelegate.m
+c000000004D780FD20000000000000A27
+t1299714002
+s2599
+i"PickersAppDelegate.h"
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.h
+c000000004D79115000000000000001F7
+t1299779920
+s503
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.m
+c000000004D7928410000000000000AD0
+t1299785793
+s2768
+i"SingleComponentPickerViewController.h"
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.xib
+c000000004D7928750000000000005385
+t1299785845
+s21381
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/apple.png
+c0000000049D34EF0000000000000024E
+t1238585072
+s590
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/bar.png
+c0000000049D34EF00000000000000409
+t1238585072
+s1033
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/cherry.png
+c0000000049D34EF000000000000001C4
+t1238585072
+s452
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/crown.png
+c0000000049D34EF000000000000003CC
+t1238585072
+s972
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/lemon.png
+c0000000049D34EF0000000000000039A
+t1238585072
+s922
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/seven.png
+c0000000049D34EF00000000000000227
+t1238585072
+s551
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/MainWindow.xib
+c000000004D78183A0000000000008500
+t1299716154
+s34048
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Pickers_Prefix.pch
+c000000004D780D8400000000000000B7
+t1299713412
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/clockicon.png
+c0000000049D34EF00000000000000F8E
+t1238585072
+s3982
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/dependenticon.png
+c0000000049D34EF00000000000000B66
+t1238585072
+s2918
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/doubleicon.png
+c0000000049D34EF00000000000000BCA
+t1238585072
+s3018
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/singleicon.png
+c0000000049D34EF00000000000000B59
+t1238585072
+s2905
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/toolicon.png
+c0000000049D34EF00000000000000F2C
+t1238585072
+s3884
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app
+t1299803288
+s782
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM
+t1299803288
+s102
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/CustomPickerViewController.nib
+t1299799749
+s2059
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/DatePickerViewController.nib
+t1299779726
+s1731
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/DependentComponentPickerViewController.nib
+t1299788969
+s1668
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/DoubleComponentPickerViewController.nib
+t1299787162
+s1674
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Info.plist
+t1299716164
+s591
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/MainWindow.nib
+t1299716168
+s2419
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers
+t1299803287
+s50576
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/PkgInfo
+t1299716165
+s8
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/SingleComponentPickerViewController.nib
+t1299785850
+s1674
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/apple.png
+t1299799747
+s590
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/bar.png
+t1299799747
+s1033
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/cherry.png
+t1299799747
+s452
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/clockicon.png
+t1299716168
+s3982
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/crown.png
+t1299799747
+s972
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/dependenticon.png
+t1299716168
+s2918
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/doubleicon.png
+t1299716168
+s3018
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/lemon.png
+t1299799747
+s922
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/seven.png
+t1299799747
+s551
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/singleicon.png
+t1299716168
+s2905
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/statedictionary.plist
+t1299788968
+s397662
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/toolicon.png
+t1299716168
+s3884
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o
+t1299803287
+s58600
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o
+t1299779604
+s48568
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o
+t1299789211
+s61292
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o
+t1299787162
+s57828
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/Pickers.LinkFileList
+c000000004D7818440000000000000488
+t1299716164
+s1160
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o
+t1299716174
+s53552
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o
+t1299785794
+s55244
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o
+t1299716173
+s6348
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/main.m
+c000000004D780D84000000000000015F
+t1299713412
+s351
+i<UIKit/UIKit.h>
+
+N/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/statedictionary.plist
+c0000000049D34EF000000000000CA69D
+t1238585072
+s829085
+
+N/var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-ebwljblybjntgshctkwsutcpzqic/Pickers_Prefix.pch.gch
+t1299716172
+s15453392
+
+NPickers-Info.plist
+c000000004D780D84000000000000038D
+t1299713412
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321496087#321496087#0(0"0(0#1#0"8618954016#0"0#
+
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321496087.847612
+e321496087.976345
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.m321496087#321496087#0(0"0(0#0#97"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.m8622239296#2208"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/include -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-ebwljblybjntgshctkwsutcpzqic/Pickers_Prefix.pch -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.m -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o0#
+
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321472404.535987
+e321472404.650794
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.m321472404#321472404#0(0"0(0#0#95"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.m8611767840#2204"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/include -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-ebwljblybjntgshctkwsutcpzqic/Pickers_Prefix.pch -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.m -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o0#
+
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321482010.953630
+e321482011.076109
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.m321482010#321482011#0(0"0(0#0#109"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.m8622849696#2232"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/include -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-ebwljblybjntgshctkwsutcpzqic/Pickers_Prefix.pch -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.m -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o0#
+
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321479962.796509
+e321479962.988043
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.m321479962#321479962#0(0"0(0#0#106"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.m8619337504#2226"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/include -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-ebwljblybjntgshctkwsutcpzqic/Pickers_Prefix.pch -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.m -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o0#
+
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/PickersAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321408973.782039
+e321408974.006833
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/PickersAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/PickersAppDelegate.m321408973#321408974#0(0"0(0#0#89"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/PickersAppDelegate.m8603219744#2192"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/include -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-ebwljblybjntgshctkwsutcpzqic/Pickers_Prefix.pch -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/PickersAppDelegate.m -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o0#
+
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321478593.936801
+e321478594.037746
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.m321478593#321478594#0(0"0(0#0#106"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.m8612917760#2226"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/include -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-ebwljblybjntgshctkwsutcpzqic/Pickers_Prefix.pch -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.m -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o0#
+
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321408973.757647
+e321408973.966053
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/main.m321408973#321408973#0(0"0(0#0#67"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/main.m8604402976#2156"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/include -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-ebwljblybjntgshctkwsutcpzqic/Pickers_Prefix.pch -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/main.m -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.xib
+s321492546.766289
+e321492549.334212
+r1
+xCompileXIB
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.xib
+lSLF07#2@49"CompileXIB Classes/CustomPickerViewController.xib321492546#321492549#0(0"0(0#0#99"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.xib8624872224#676"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/CustomPickerViewController.nib /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/CustomPickerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.xib
+s321472525.955696
+e321472526.635867
+r1
+xCompileXIB
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.xib
+lSLF07#2@47"CompileXIB Classes/DatePickerViewController.xib321472525#321472526#0(0"0(0#0#97"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.xib8610416320#672"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/DatePickerViewController.nib /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DatePickerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.xib
+s321481767.509133
+e321481769.521257
+r1
+xCompileXIB
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.xib
+lSLF07#2@61"CompileXIB Classes/DependentComponentPickerViewController.xib321481767#321481769#0(0"0(0#0#111"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.xib8622931360#700"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/DependentComponentPickerViewController.nib /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DependentComponentPickerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.xib
+s321479961.117145
+e321479962.795941
+r1
+xCompileXIB
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.xib
+lSLF07#2@58"CompileXIB Classes/DoubleComponentPickerViewController.xib321479961#321479962#0(0"0(0#0#108"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.xib8617256192#694"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/DoubleComponentPickerViewController.nib /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/DoubleComponentPickerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.xib
+s321478649.543748
+e321478650.678840
+r1
+xCompileXIB
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.xib
+lSLF07#2@58"CompileXIB Classes/SingleComponentPickerViewController.xib321478649#321478650#0(0"0(0#0#108"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.xib8614978752#694"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/SingleComponentPickerViewController.nib /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Classes/SingleComponentPickerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/MainWindow.xib
+s321408965.010461
+e321408968.763047
+r1
+xCompileXIB
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321408965#321408968#0(0"0(0#0#75"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/MainWindow.xib8611151712#636"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/MainWindow.nib /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyPlistFile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/statedictionary.plist statedictionary.plist
+s321481767.510339
+e321481768.085836
+r1
+xCopyPlistFile
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/statedictionary.plist
+xstatedictionary.plist
+lSLF07#2@26"Copy statedictionary.plist321481767#321481768#0(0"0(0#0#82"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/statedictionary.plist8622727296#440"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 statedictionary.plist --outdir /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
+CCpResource build/Debug-iphonesimulator/Pickers.app/apple.png "Custom Picker Images/apple.png"
+s321492546.767656
+e321492547.066727
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pickers.app/apple.png
+xCustom Picker Images/apple.png
+lSLF07#2@35"Copy Custom Picker Images/apple.png321492546#321492547#0(0"0(0#0#91"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/apple.png8624740352#556"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/apple.png" /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
+CCpResource build/Debug-iphonesimulator/Pickers.app/bar.png "Custom Picker Images/bar.png"
+s321492546.768429
+e321492547.067295
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pickers.app/bar.png
+xCustom Picker Images/bar.png
+lSLF07#2@33"Copy Custom Picker Images/bar.png321492546#321492547#0(0"0(0#0#89"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/bar.png8623409440#554"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/bar.png" /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
+CCpResource build/Debug-iphonesimulator/Pickers.app/cherry.png "Custom Picker Images/cherry.png"
+s321492546.769276
+e321492547.066902
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pickers.app/cherry.png
+xCustom Picker Images/cherry.png
+lSLF07#2@36"Copy Custom Picker Images/cherry.png321492546#321492547#0(0"0(0#0#92"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/cherry.png8623633888#557"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/cherry.png" /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
+CCpResource build/Debug-iphonesimulator/Pickers.app/clockicon.png "Tab Bar Icons/clockicon.png"
+s321408968.514155
+e321408968.614951
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pickers.app/clockicon.png
+xTab Bar Icons/clockicon.png
+lSLF07#2@32"Copy Tab Bar Icons/clockicon.png321408968#321408968#0(0"0(0#0#88"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/clockicon.png8611828160#553"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/clockicon.png" /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
+CCpResource build/Debug-iphonesimulator/Pickers.app/crown.png "Custom Picker Images/crown.png"
+s321492546.770104
+e321492547.067107
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pickers.app/crown.png
+xCustom Picker Images/crown.png
+lSLF07#2@35"Copy Custom Picker Images/crown.png321492546#321492547#0(0"0(0#0#91"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/crown.png8624480864#556"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/crown.png" /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
+CCpResource build/Debug-iphonesimulator/Pickers.app/dependenticon.png "Tab Bar Icons/dependenticon.png"
+s321408968.514865
+e321408968.612838
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pickers.app/dependenticon.png
+xTab Bar Icons/dependenticon.png
+lSLF07#2@36"Copy Tab Bar Icons/dependenticon.png321408968#321408968#0(0"0(0#0#92"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/dependenticon.png8611180160#557"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/dependenticon.png" /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
+CCpResource build/Debug-iphonesimulator/Pickers.app/doubleicon.png "Tab Bar Icons/doubleicon.png"
+s321408968.515612
+e321408968.612556
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pickers.app/doubleicon.png
+xTab Bar Icons/doubleicon.png
+lSLF07#2@33"Copy Tab Bar Icons/doubleicon.png321408968#321408968#0(0"0(0#0#89"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/doubleicon.png8610644608#554"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/doubleicon.png" /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
+CCpResource build/Debug-iphonesimulator/Pickers.app/lemon.png "Custom Picker Images/lemon.png"
+s321492546.770781
+e321492547.067418
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pickers.app/lemon.png
+xCustom Picker Images/lemon.png
+lSLF07#2@35"Copy Custom Picker Images/lemon.png321492546#321492547#0(0"0(0#0#91"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/lemon.png8624321760#556"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/lemon.png" /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
+CCpResource build/Debug-iphonesimulator/Pickers.app/seven.png "Custom Picker Images/seven.png"
+s321492546.772046
+e321492547.067539
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pickers.app/seven.png
+xCustom Picker Images/seven.png
+lSLF07#2@35"Copy Custom Picker Images/seven.png321492546#321492547#0(0"0(0#0#91"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/seven.png8624181952#556"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Custom Picker Images/seven.png" /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
+CCpResource build/Debug-iphonesimulator/Pickers.app/singleicon.png "Tab Bar Icons/singleicon.png"
+s321408968.516347
+e321408968.614279
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pickers.app/singleicon.png
+xTab Bar Icons/singleicon.png
+lSLF07#2@33"Copy Tab Bar Icons/singleicon.png321408968#321408968#0(0"0(0#0#89"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/singleicon.png8610381792#554"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/singleicon.png" /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
+CCpResource build/Debug-iphonesimulator/Pickers.app/toolicon.png "Tab Bar Icons/toolicon.png"
+s321408968.517112
+e321408968.613600
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pickers.app/toolicon.png
+xTab Bar Icons/toolicon.png
+lSLF07#2@31"Copy Tab Bar Icons/toolicon.png321408968#321408968#0(0"0(0#0#87"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/toolicon.png8610307872#552"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Tab Bar Icons/toolicon.png" /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
+CGenerateDSYMFile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers
+s321496088.000418
+e321496088.026823
+r1
+xGenerateDSYMFile
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Pickers.app.dSYM build/Debug-iphonesimulator/Pickers.app/Pickers321496088#321496088#0(0"0(0#0#108"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers8623545120#449"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM0#
+
+CLd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers normal i386
+s321496087.976433
+e321496088.000285
+r1
+xLd
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers
+xnormal
+xi386
+lSLF07#2@113"Link /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers321496087#321496088#0(0"0(0#0#0"8625415936#1010"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator -filelist /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/Pickers.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers0#
+
+CProcessInfoPlistFile /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Info.plist Pickers-Info.plist
+s321408964.939899
+e321408965.010341
+r1
+xProcessInfoPlistFile
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Info.plist
+xPickers-Info.plist
+lSLF07#2@26"Process Pickers-Info.plist321408964#321408965#0(0"0(0#0#79"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Pickers-Info.plist32088581143724132#545"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Pickers-Info.plist -genpkginfo /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app/Info.plist0#
+
+CProcessPCH /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-ebwljblybjntgshctkwsutcpzqic/Pickers_Prefix.pch.gch Pickers_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321408969.010961
+e321408973.757408
+r1
+xProcessPCH
+x/var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-ebwljblybjntgshctkwsutcpzqic/Pickers_Prefix.pch.gch
+xPickers_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Pickers_Prefix.pch321408969#321408973#0(0"0(0#0#79"/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Pickers_Prefix.pch8598276672#2026"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/include -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/Pickers_Prefix.pch -o /var/folders/kd/kduqWPBaEMS+lovocg4CMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-ebwljblybjntgshctkwsutcpzqic/Pickers_Prefix.pch.gch0#
+
+CTouch /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app
+s321496088.026933
+e321496088.029224
+r1
+xTouch
+x/Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app
+lSLF07#2@106"Touch /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app321496088#321496088#0(0"0(0#0#0"8623285952#322"    cd /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rwhite/dev/iOs/Beginning-iPhone-4-Development/Pickers/build/Debug-iphonesimulator/Pickers.app0#
+
