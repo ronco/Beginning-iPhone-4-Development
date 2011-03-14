@@ -17,6 +17,19 @@
 @synthesize column3;
 @synthesize column4;
 @synthesize column5;
+@synthesize button;
+@synthesize crunchSoundID;
+@synthesize winSoundID;
+
+-(void)showButton {
+	button.hidden = NO;
+}
+
+-(void)playWinSound {
+	AudioServicesPlaySystemSound(winSoundID);
+	winLabel.text = @"WIN!";
+	[self performSelector:@selector(showButton) withObject:nil afterDelay:1.5];
+}
 
 -(IBAction)spin {
 	BOOL win = NO;
@@ -37,6 +50,21 @@
 		if (numInRow >=3)
 			win = YES;
 	}
+	button.hidden = YES;
+	AudioServicesPlaySystemSound(crunchSoundID);
+	
+	if (win) {
+		[self performSelector:@selector(playWinSound)
+				   withObject:nil
+				   afterDelay:.5];
+	} else {
+		[self performSelector:@selector(showButton)
+				   withObject:nil
+				   afterDelay:.5];
+	}
+
+	winLabel.text = @"";
+	
 	if (win) {
 		winLabel.text = @"WIN!";
 	} else {
@@ -88,6 +116,14 @@
 		[appleView release];
 	}
 	
+	NSString *path = [[NSBundle mainBundle] pathForResource:@"win" ofType:@"wav"];
+	AudioServicesCreateSystemSoundID((CFURLRef)[NSURL fileURLWithPath:path],
+								 &winSoundID);
+	path = [[NSBundle mainBundle] pathForResource:@"crunch"
+										   ofType:@"wav"];
+	AudioServicesCreateSystemSoundID((CFURLRef)[NSURL fileURLWithPath:path],
+								 &crunchSoundID);
+	
 	srand(time(NULL));
 }
 
@@ -118,6 +154,14 @@
 	self.column3 = nil;
 	self.column4 = nil;
 	self.column5 = nil;
+	self.button = nil;
+	
+	if (winSoundID) {
+		AudioServicesDisposeSystemSoundID(winSoundID), winSoundID = 0;
+	}
+	if (crunchSoundID) {
+		AudioServicesDisposeSystemSoundID(crunchSoundID), crunchSoundID = 0;
+	}
 }
 
 
@@ -129,6 +173,14 @@
 	[column3 release];
 	[column4 release];
 	[column5 release];
+	[button release];
+	
+	if (winSoundID) {
+		AudioServicesDisposeSystemSoundID(winSoundID), winSoundID = 0;
+	}
+	if (crunchSoundID) {
+		AudioServicesDisposeSystemSoundID(crunchSoundID), crunchSoundID = 0;
+	}
 	[super dealloc];
 }
 

@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import <AudioToolbox/AudioToolbox.h>
 
 @interface CustomPickerViewController : UIViewController 
 	<UIPickerViewDataSource, UIPickerViewDelegate> {
@@ -19,6 +19,10 @@
 		NSArray *column3;
 		NSArray *column4;
 		NSArray *column5;
+		
+		UIButton *button;
+		SystemSoundID crunchSoundID;
+		SystemSoundID winSoundID;
 }
 @property (nonatomic, retain) IBOutlet UIPickerView *picker;
 @property (nonatomic, retain) IBOutlet UILabel *winLabel;
@@ -27,5 +31,8 @@
 @property (nonatomic, retain) NSArray *column3;
 @property (nonatomic, retain) NSArray *column4;
 @property (nonatomic, retain) NSArray *column5;
+@property (nonatomic, retain) IBOutlet UIButton *button;
+@property (nonatomic) SystemSoundID crunchSoundID;
+@property (nonatomic) SystemSoundID winSoundID;
 -(IBAction)spin;
 @end
